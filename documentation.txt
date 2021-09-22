@@ -1,0 +1,5 @@
+all the necessary comments are specified in the pyspark script
+1) I have completed the code in databricks community edition
+2) Using the flatten the struct type coluumns dynamically
+3) created single csv file for the filter of top stories in dbfs location
+4) finally read the csv file to check all the columns are properly in dataframe
